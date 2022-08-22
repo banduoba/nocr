@@ -9,3 +9,7 @@ local.properties
 /app/.cxx
 /app/build
 /app/cache
+/app/OpenCV
+/app/PaddleLite
+/app/src/main/assets/labels
+/app/src/main/assets/models/ch_PP-OCRv2
